@@ -1,0 +1,17 @@
+# Telegram
+TG_TOKEN=telegram_token
+GROUP_CHAT_ID=-1234567890
+
+# Openweathermap
+OWM_API_KEY=access_key_for_openweathermap_api
+OWM_API_URL=https://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid={}&lang=ru
+MILIMETRE_OF_MERCURY=0.75
+
+# Exchangeratesapi
+EXCHANGE_RATE_API_KEY=access_key_for_exchangerates_api
+EXCHANGE_RATE_API_URL=https://api.apilayer.com/exchangerates_data/convert?amount={}&from={}&to={}
+
+# Unsplash
+UNSP_ACCESS_KEY=access_key_for_unsplash_api
+UNSP_API_URL=https://api.unsplash.com/photos/random?client_id={}&query={}
+UNSP_QUERY=cute-animal

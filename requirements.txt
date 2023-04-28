@@ -1,0 +1,9 @@
+aiogram==2.25.1
+Brotli==1.0.9
+aiodns==3.0.0
+cffi==1.15.1
+pycares==4.3.0
+pycparser==2.21
+ujson==5.7.0
+python-dotenv==1.0.0
+requests==2.29.0
